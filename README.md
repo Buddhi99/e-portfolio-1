@@ -31,7 +31,7 @@ Objectives:	“To strive excellence in all my job activities so that I would be 
 EDUCATION
 
 Feb 2020 - Dec 2023			Sri Lanka Institute Information Technology, Malabe
-					             Bachelor of Science (Hons) Biotechnology Degree 
+					Bachelor of Science (Hons) Biotechnology Degree 
 						(Second-class upper division)
 						Successfully Completed
 
