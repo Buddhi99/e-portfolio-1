@@ -1,5 +1,5 @@
 # e-portfolio-1
-!-- main banner -->
+<-- main banner -->
     <section class="bgimage" id="home">
         <div class="container-fluid">
             <div class="row">
